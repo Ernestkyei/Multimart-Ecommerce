@@ -1,5 +1,5 @@
 🛒 Project Title: Maltimart Ecommerce Store
-“This is my Multimart Ecommerce Store — a responsive and modern online shopping website.”
+“This is my Multimart Ecommerce Store — a responsive and modern online shopping web Application.”
 
 🔗 Live Demo
 “Here’s the live version: multimart-ecommerce.onrender.com”
